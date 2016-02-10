@@ -34,22 +34,23 @@ stemmata.
 
 ### Concept review
 
-files and folders
-staging area
-journal
-head
-commit
-repository
-branch
-fork
-pull request
-`git init`
-`git add`
-`git commit`
-`git push`
-`git pull`
-`git diff`
-`git status`
+files and folders  
+.git  
+staging area  
+journal  
+head  
+commit  
+repository  
+branch  
+fork  
+pull request  
+`git init`  
+`git add`  
+`git commit`  
+`git push`  
+`git pull`  
+`git diff`  
+`git status`  
 
 ## Part 2: Practice (1.5 hr)
 
