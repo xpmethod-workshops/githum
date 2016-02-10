@@ -13,6 +13,13 @@ thinking not about code but about manuscripts, genetic criticism, philology,
 the making of critical editions, copy-text, textual witness, *recensio*, and
 stemmata.
 
+Goals for today:
+
+1. To understand the ideas behind version control.
+2. To internalize the model behind Git.
+3. To learn a set of basic commands and to make your first push.
+
+Bonus: To file a pull request to an existing project.
 
 ## In Preparation
 
