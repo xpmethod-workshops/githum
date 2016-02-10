@@ -23,9 +23,12 @@ Bonus: To file a pull request to an existing project.
 
 ## In Preparation
 
-### Mac
-### Windows
-### *nix
+- Read the [Git Book](https://git-scm.com/book/en/v2], Chapters 1 & 2.
+- Install Git, following the instructions in [Chapter
+  1.5](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) of the
+Git Book
+- Complete the Hello World exercise from [Github
+  Guides](https://guides.github.com/activities/hello-world/)
 
 ## Part 1: Theory (1.5 hr)
 
