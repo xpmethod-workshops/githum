@@ -13,9 +13,22 @@ thinking not about code but about manuscripts, genetic criticism, philology,
 the making of critical editions, copy-text, textual witness, *recensio*, and
 stemmata.
 
+
+## In Preparation
+
+### Mac
+### Windows
+### *nix
+
 ## Part 1: Theory (1.5 hr)
 
 ### What is Git?
+
+- git is a friendly piece of software that monitors files in a **folder**[!]
+- git is a journalling system
+- git is a way to version control your documents
+- git is a mode of collaboration
+
 ### Why Git?
 
 - powerful
@@ -56,7 +69,6 @@ pull request
 
 ## Resources
 
-- DH Notes [Git Cheatsheet]()
+- DH Notes [Git
+  Cheatsheet](https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md)
 - [Git Book](http://git-scm.com/book)
-
-DHNotes Git Cheatsheet
