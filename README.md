@@ -77,6 +77,11 @@ pull request
 
 ## Part 2: Practice (1.5 hr)
 
+Exercise 1: First Commit
+Exercise 2: Push and Pull
+Exercise 4: Resolving Conflicts
+Exercise 5: Pull Requests
+
 ## Resources
 
 - DH Notes [Git
