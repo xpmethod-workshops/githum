@@ -17,11 +17,45 @@ stemmata.
 
 ### What is Git?
 ### Why Git?
-### Repository model
-### Vocabulary review
+
+- powerful
+- universal
+- enables collaboration
+- critical mass
+- journaling (lab notebook)
+- publishing platform
+- API for data feeds
+- project management tools
+- labor attribution
+
+### Repository structure
+
+![Github Res](model.jpg)
+
+### Concept review
+
+files and folders
+staging area
+journal
+head
+commit
+repository
+branch
+fork
+pull request
+`git init`
+`git add`
+`git commit`
+`git push`
+`git pull`
+`git diff`
+`git status`
 
 ## Part 2: Practice (1.5 hr)
 
 ## Resources
+
+- DH Notes [Git Cheatsheet]()
+- [Git Book](http://git-scm.com/book)
 
 DHNotes Git Cheatsheet
