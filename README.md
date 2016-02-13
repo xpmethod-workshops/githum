@@ -23,7 +23,7 @@ Bonus: To file a pull request to an existing project.
 
 ## In Preparation
 
-- Read the [Git Book](https://git-scm.com/book/en/v2], Chapters 1 & 2.
+- Read the [Git Book](https://git-scm.com/book/en/v2), Chapters 1 & 2.
 - Install Git, following the instructions in [Chapter
   1.5](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) of the
 Git Book
