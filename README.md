@@ -87,3 +87,4 @@ Exercise 5: Pull Requests
 - DH Notes [Git
   Cheatsheet](https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md)
 - [Git Book](http://git-scm.com/book)
+- [GitKraken](http://www.gitkraken.com/), "The downright luxurious Git client"
